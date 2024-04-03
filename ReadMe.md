@@ -2,15 +2,10 @@
 
 Built with HTML, CSS and Vanilla Js
 
-- Link: [Williams Portfolio](https://williamssam.netlify.app/)
-- Twitter: [@williams_codes](https://twitter.com/williams_codes)
-
-![portfolio site screenshot](./screenshot.jpg)
-
 ## License
 The MIT License ⚖️
 
-Copyright (c) 2022 Williams Samuel
+Copyright (c) 2022 Sakthivel Viswanathan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the 'Software'), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
